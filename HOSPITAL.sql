@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS bd_hospital;
+DROP DATABASE IF EXISTS hospital;
 CREATE DATABASE hospital CHARACTER SET utf8mb4;
 
 USE bd_hospital;
